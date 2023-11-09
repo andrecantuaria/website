@@ -7,7 +7,10 @@ let postalCode = 'R3A 0H9';
 
 
 // utility functions
-return document.querySelector(selector)
+
+function functionB() {
+    //this is another branch
+}
 
 let businessNAme = 'Super Pizza Place'
 

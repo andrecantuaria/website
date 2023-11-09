@@ -1,13 +1,13 @@
 'use strict'
 
 const TOKEN = 'dlfkhdsfhfw654654fgdfgMORECODE'
-let adress ='215 - 123 Hellow Bay'
+let adress ='444 - 123 Hellow Bay'
+let postalCode = 'R3A 0H9';
+
 
 
 // utility functions
-
-function  selectElement(selector) {
-    return document.querySelector(selector)
+return document.querySelector(selector)
 }
 
 let businessNAme = 'Super Pizza Place'

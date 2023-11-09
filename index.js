@@ -1,29 +1,21 @@
 'use strict'
 
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
 const TOKEN = 'dlfkhdsfhfw654654fgdfgMORECODE'
 let adress ='215 - 123 Hellow Bay'
-=======
 const TOKEN = 'dlfkhdsfhfw654654fgdfg'
 let adress ='444 - 123 Hellow Bay'
 let postalCode = 'R3A 0H9';
-<<<<<<< HEAD
->>>>>>> c32e8addc2e2b5c8312ad89ac6ba8a40e1676118
-=======
->>>>>>> c32e8addc2e2b5c8312ad89ac6ba8a40e1676118
+>>>>>>>>> Temporary merge branch 2
 
 
 // utility functions
 
-<<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<<<<< Temporary merge branch 1
 function  selectElement(selector) {
-=======
+=========
 function  printOptions(selector) {
->>>>>>> c32e8addc2e2b5c8312ad89ac6ba8a40e1676118
-=======
-function  printOptions(selector) {
->>>>>>> c32e8addc2e2b5c8312ad89ac6ba8a40e1676118
+>>>>>>>>> Temporary merge branch 2
     return document.querySelector(selector)
 }
 
